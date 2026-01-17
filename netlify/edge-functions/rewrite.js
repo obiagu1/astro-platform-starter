@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define project name
-PROJECT_NAME="InvestPro_v1_Core"
+PROJECT_NAME="COINBEST"
 BUILD_DIR="./$PROJECT_NAME"
 
 echo "[*] Preparing project structure..."
